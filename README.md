@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sanjay
 #### I am a Software Developer
 
-I live in Switzerland and attend the IT upper secondary school at the Kantonsschule Baden.
+Welcome to my GitHub profile! I’m currently a Computer Science student from Switzerland with a focus on application development. I speak German, Swiss German, and Tamil, and I have also developed advanced English skills from a young age.
 
 Skills: HTML / JS / CSS / C# / Python 
 
