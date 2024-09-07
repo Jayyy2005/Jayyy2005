@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I’m currently a Computer Science student from Sw
 
 # View My Website: <a href="https://sanjay-portfolio.tiiny.site/">Click Here</a>
 
-- 🔭 I’m currently working on Java and Python 
 - 📫 How to reach me: sanjayraviraj2005@gmail.com
 
 # 💻 Tech Stack:
