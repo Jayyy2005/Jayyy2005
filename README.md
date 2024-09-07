@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Sanjay
 #### I am a Software Developer
 
-Welcome to my GitHub profile! I’m currently a Computer Science student from Switzerland with a focus on application development. I speak German, Swiss German, and Tamil, and I have also developed advanced English skills from a young age.
+Welcome to my GitHub profile! I’m currently a Computer Science student from Switzerland with a focus on application development. I speak German, Swiss German, and Tamil. I have also developed advanced English skills from a young age.
 
-Skills: HTML / JS / CSS / C# / Python 
+# View My Website: <a href="https://sanjay-portfolio.tiiny.site/">Click Here</a>
 
 - 🔭 I’m currently working on Java and Python 
 - 📫 How to reach me: sanjayraviraj2005@gmail.com
